@@ -1,0 +1,8 @@
+.hero-image {
+  width: 100%;
+  height: 90vh;              // wysokość dowolna
+  background-image: url('../../assets/test.png');
+  background-size: cover;     // obraz się skaluje, zachowując proporcje
+  background-position: 90% center; // punkt odniesienia przy skalowaniu
+  background-repeat: no-repeat;
+}
